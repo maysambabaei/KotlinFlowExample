@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinFlows</string>
+    <string name="user_id">user_Id: </string>
+    <string name="id">Id:</string>
+    <string name="title">title: </string>
+    <string name="body">body:</string>
+</resources>
